@@ -1,0 +1,12 @@
+
+*{
+    margin: 0%;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    background-color: rgb(209, 181, 235);
+    min-height: 100vh;
+
+}
